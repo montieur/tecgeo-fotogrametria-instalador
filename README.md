@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="logo.png" alt="TECGEO" height="64">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo_escuro.png">
+  <img src="logo_claro.png" alt="TECGEO" height="64">
+</picture>
 
 # TECGEO Fotogrametria
 
@@ -17,9 +20,9 @@ Ortomosaico · MDS · MDT · nuvem de pontos classificada · modelo 3D · relat�
 
 <br><br>
 
-<img src="docs/nuvem_3d.jpg" alt="Nuvem de pontos densa de uma área urbana, vista oblíqua" width="100%">
+<img src="docs/capa.jpg" alt="Nuvem de pontos densa de uma área urbana, vista oblíqua" width="100%">
 
-<sub>Nuvem de pontos densa (25 milhões de pontos) de um levantamento urbano — 412 fotos DJI Mavic 3 Enterprise, 35 ha, GSD de 5 cm, 7 pontos de controle.</sub>
+<sub>Levantamento urbano processado no TECGEO Fotogrametria — DJI Mavic 3 Enterprise, 412 fotos, 7 pontos de controle.</sub>
 
 </div>
 
